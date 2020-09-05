@@ -1,4 +1,4 @@
-package com.alex.core.controller;
+package com.core.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,9 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.alex.core.model.Student;
-import com.alex.core.model.StudentRepository;
-import com.alex.core.model.Student.Gender;
+import com.core.model.Student;
+import com.core.model.StudentRepository;
 
 @RestController
 public class StudentController {

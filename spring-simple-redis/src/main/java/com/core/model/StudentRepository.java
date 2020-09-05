@@ -1,4 +1,4 @@
-package com.alex.core.model;
+package com.core.model;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package com.alex.core.model;
+package com.core.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.redis.core.RedisHash;
